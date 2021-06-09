@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Release|Win32|H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\|

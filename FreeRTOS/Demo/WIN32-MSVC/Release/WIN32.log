@@ -1,0 +1,79 @@
+﻿  trcBase.c
+..\..\..\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcBase.c(40): fatal error C1083: Cannot open include file: 'trcBase.h': No such file or directory
+  trcHardwarePort.c
+..\..\..\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcHardwarePort.c(41): fatal error C1083: Cannot open include file: 'trcHardwarePort.h': No such file or directory
+  trcKernel.c
+..\..\..\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcKernel.c(40): fatal error C1083: Cannot open include file: 'trcKernel.h': No such file or directory
+  trcKernelPort.c
+..\..\..\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcKernelPort.c(40): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  trcUser.c
+..\..\..\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcUser.c(39): fatal error C1083: Cannot open include file: 'trcUser.h': No such file or directory
+  croutine.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  event_groups.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  heap_5.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  timers.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  AbortDelay.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  BlockQ.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  blocktim.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  countsem.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  death.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  dynamic.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  EventGroupsDemo.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  flop.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  GenQTest.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  integer.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  IntSemTest.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  Generating Code...
+  Compiling...
+  PollQ.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  QPeek.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  QueueOverwrite.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  QueueSet.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  QueueSetPolling.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  recmutex.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  semtest.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  StaticAllocation.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  TaskNotify.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  timerdemo.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  main.c
+h:\working\[20210509]嵌入式操作系统\[2020 3 29]freertos\visualstudio\freertos\demo\win32-msvc\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  list.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  port.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  queue.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  tasks.c
+H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  main_blinky.c
+h:\working\[20210509]嵌入式操作系统\[2020 3 29]freertos\visualstudio\freertos\demo\win32-msvc\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  main_full.c
+h:\working\[20210509]嵌入式操作系统\[2020 3 29]freertos\visualstudio\freertos\demo\win32-msvc\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  Run-time-stats-utils.c
+h:\working\[20210509]嵌入式操作系统\[2020 3 29]freertos\visualstudio\freertos\demo\win32-msvc\FreeRTOSConfig.h(162): fatal error C1083: Cannot open include file: 'trcKernelPort.h': No such file or directory
+  Generating Code...

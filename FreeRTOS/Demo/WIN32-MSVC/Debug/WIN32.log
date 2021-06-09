@@ -1,0 +1,4 @@
+﻿  main.c
+h:\working\[20210509]嵌入式操作系统\[2020 3 29]freertos\visualstudio\freertos\demo\win32-msvc\main.c(117): warning C4189: 'TaskInitParam': local variable is initialized but not referenced
+  WIN32.vcxproj -> H:\Working\[20210509]嵌入式操作系统\[2020 3 29]FreeRTOS\visualstudio\FreeRTOS\Demo\WIN32-MSVC\.\Debug\RTOSDemo.exe
+  WIN32.vcxproj -> .\Debug/WIN32.pdb (Full PDB)
